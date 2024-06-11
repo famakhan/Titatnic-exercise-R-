@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "e76c132b",
+   "id": "0073ddd9",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2024-06-11T13:01:22.959625Z",
-     "iopub.status.busy": "2024-06-11T13:01:22.957179Z",
-     "iopub.status.idle": "2024-06-11T13:01:24.295461Z",
-     "shell.execute_reply": "2024-06-11T13:01:24.293379Z"
+     "iopub.execute_input": "2024-06-11T13:37:08.741775Z",
+     "iopub.status.busy": "2024-06-11T13:37:08.738809Z",
+     "iopub.status.idle": "2024-06-11T13:37:10.074564Z",
+     "shell.execute_reply": "2024-06-11T13:37:10.072154Z"
     },
     "papermill": {
-     "duration": 1.347725,
-     "end_time": "2024-06-11T13:01:24.299652",
+     "duration": 1.345805,
+     "end_time": "2024-06-11T13:37:10.078481",
      "exception": false,
-     "start_time": "2024-06-11T13:01:22.951927",
+     "start_time": "2024-06-11T13:37:08.732676",
      "status": "completed"
     },
     "tags": []
@@ -71,19 +71,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "500d9b98",
+   "id": "43f78003",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T13:01:24.339046Z",
-     "iopub.status.busy": "2024-06-11T13:01:24.307265Z",
-     "iopub.status.idle": "2024-06-11T13:01:27.074931Z",
-     "shell.execute_reply": "2024-06-11T13:01:27.072800Z"
+     "iopub.execute_input": "2024-06-11T13:37:10.127199Z",
+     "iopub.status.busy": "2024-06-11T13:37:10.088919Z",
+     "iopub.status.idle": "2024-06-11T13:37:12.987560Z",
+     "shell.execute_reply": "2024-06-11T13:37:12.985355Z"
     },
     "papermill": {
-     "duration": 2.775641,
-     "end_time": "2024-06-11T13:01:27.078280",
+     "duration": 2.908511,
+     "end_time": "2024-06-11T13:37:12.990468",
      "exception": false,
-     "start_time": "2024-06-11T13:01:24.302639",
+     "start_time": "2024-06-11T13:37:10.081957",
      "status": "completed"
     },
     "tags": []
@@ -133,19 +133,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "83670486",
+   "id": "10ca773e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T13:01:27.087931Z",
-     "iopub.status.busy": "2024-06-11T13:01:27.086271Z",
-     "iopub.status.idle": "2024-06-11T13:01:27.149449Z",
-     "shell.execute_reply": "2024-06-11T13:01:27.147613Z"
+     "iopub.execute_input": "2024-06-11T13:37:13.002558Z",
+     "iopub.status.busy": "2024-06-11T13:37:13.000059Z",
+     "iopub.status.idle": "2024-06-11T13:37:13.076184Z",
+     "shell.execute_reply": "2024-06-11T13:37:13.073938Z"
     },
     "papermill": {
-     "duration": 0.070894,
-     "end_time": "2024-06-11T13:01:27.152039",
+     "duration": 0.085135,
+     "end_time": "2024-06-11T13:37:13.079247",
      "exception": false,
-     "start_time": "2024-06-11T13:01:27.081145",
+     "start_time": "2024-06-11T13:37:12.994112",
      "status": "completed"
     },
     "tags": []
@@ -255,19 +255,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "31ac1f16",
+   "id": "a772793d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T13:01:27.163266Z",
-     "iopub.status.busy": "2024-06-11T13:01:27.161389Z",
-     "iopub.status.idle": "2024-06-11T13:01:27.191669Z",
-     "shell.execute_reply": "2024-06-11T13:01:27.189514Z"
+     "iopub.execute_input": "2024-06-11T13:37:13.092531Z",
+     "iopub.status.busy": "2024-06-11T13:37:13.090581Z",
+     "iopub.status.idle": "2024-06-11T13:37:13.120116Z",
+     "shell.execute_reply": "2024-06-11T13:37:13.117951Z"
     },
     "papermill": {
-     "duration": 0.039348,
-     "end_time": "2024-06-11T13:01:27.194722",
+     "duration": 0.039439,
+     "end_time": "2024-06-11T13:37:13.123053",
      "exception": false,
-     "start_time": "2024-06-11T13:01:27.155374",
+     "start_time": "2024-06-11T13:37:13.083614",
      "status": "completed"
     },
     "tags": []
@@ -302,6 +302,142 @@
     "guess <- sample(c(0,1), nrow(test_set), replace = TRUE)\n",
     "mean(guess == test_set$Survived)"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "6d37bec6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-06-11T13:37:13.136420Z",
+     "iopub.status.busy": "2024-06-11T13:37:13.134428Z",
+     "iopub.status.idle": "2024-06-11T13:37:13.247708Z",
+     "shell.execute_reply": "2024-06-11T13:37:13.245403Z"
+    },
+    "papermill": {
+     "duration": 0.123161,
+     "end_time": "2024-06-11T13:37:13.250652",
+     "exception": false,
+     "start_time": "2024-06-11T13:37:13.127491",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Warning message in mean.default(train_set$Survived[train_set$Sex == \"female\"], na.rm = TRUE):\n",
+      "“argument is not numeric or logical: returning NA”\n",
+      "Warning message in mean.default(train_set$Survived[train_set$Sex == \"male\"], na.rm = TRUE):\n",
+      "“argument is not numeric or logical: returning NA”\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "&lt;NA&gt;"
+      ],
+      "text/latex": [
+       "<NA>"
+      ],
+      "text/markdown": [
+       "&lt;NA&gt;"
+      ],
+      "text/plain": [
+       "[1] NA"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "&lt;NA&gt;"
+      ],
+      "text/latex": [
+       "<NA>"
+      ],
+      "text/markdown": [
+       "&lt;NA&gt;"
+      ],
+      "text/plain": [
+       "[1] NA"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A tibble: 2 × 2</caption>\n",
+       "<thead>\n",
+       "\t<tr><th scope=col>Sex</th><th scope=col>proportion_survived</th></tr>\n",
+       "\t<tr><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;dbl&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><td>female</td><td>1.73</td></tr>\n",
+       "\t<tr><td>male  </td><td>1.19</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A tibble: 2 × 2\n",
+       "\\begin{tabular}{ll}\n",
+       " Sex & proportion\\_survived\\\\\n",
+       " <chr> & <dbl>\\\\\n",
+       "\\hline\n",
+       "\t female & 1.73\\\\\n",
+       "\t male   & 1.19\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A tibble: 2 × 2\n",
+       "\n",
+       "| Sex &lt;chr&gt; | proportion_survived &lt;dbl&gt; |\n",
+       "|---|---|\n",
+       "| female | 1.73 |\n",
+       "| male   | 1.19 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "  Sex    proportion_survived\n",
+       "1 female 1.73               \n",
+       "2 male   1.19               "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Q3. Use the training set to determine whether members of a given sex were more likely to survive or die.\n",
+    "#What proportion of training set females survived? \n",
+    "#What proportion of training set males survived?\n",
+    "\n",
+    "\n",
+    "\n",
+    "proportion_female_survived <- mean(train_set$Survived[train_set$Sex == \"female\"], na.rm = TRUE)\n",
+    "\n",
+    "proportion_male_survived <- mean(train_set$Survived[train_set$Sex == \"male\"], na.rm = TRUE)\n",
+    "\n",
+    "proportion_female_survived\n",
+    "proportion_male_survived\n",
+    "\n",
+    "#method 2\n",
+    "library(dplyr)\n",
+    "\n",
+    "proportions <- train_set %>%\n",
+    "  group_by(Sex) %>%\n",
+    "  summarise(proportion_survived = mean(as.numeric(Survived)), .groups = \"drop\")\n",
+    "proportions\n",
+    "\n"
+   ]
   }
  ],
  "metadata": {
@@ -329,14 +465,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 8.615598,
-   "end_time": "2024-06-11T13:01:27.321556",
+   "duration": 8.648836,
+   "end_time": "2024-06-11T13:37:13.380774",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-11T13:01:18.705958",
+   "start_time": "2024-06-11T13:37:04.731938",
    "version": "2.5.0"
   }
  },
