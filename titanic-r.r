@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "dee76d09",
+   "id": "e76c132b",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2024-06-11T12:15:30.829674Z",
-     "iopub.status.busy": "2024-06-11T12:15:30.826981Z",
-     "iopub.status.idle": "2024-06-11T12:15:32.126886Z",
-     "shell.execute_reply": "2024-06-11T12:15:32.124853Z"
+     "iopub.execute_input": "2024-06-11T13:01:22.959625Z",
+     "iopub.status.busy": "2024-06-11T13:01:22.957179Z",
+     "iopub.status.idle": "2024-06-11T13:01:24.295461Z",
+     "shell.execute_reply": "2024-06-11T13:01:24.293379Z"
     },
     "papermill": {
-     "duration": 1.308292,
-     "end_time": "2024-06-11T12:15:32.129733",
+     "duration": 1.347725,
+     "end_time": "2024-06-11T13:01:24.299652",
      "exception": false,
-     "start_time": "2024-06-11T12:15:30.821441",
+     "start_time": "2024-06-11T13:01:22.951927",
      "status": "completed"
     },
     "tags": []
@@ -71,19 +71,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "5b14f0a7",
+   "id": "500d9b98",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T12:15:32.171247Z",
-     "iopub.status.busy": "2024-06-11T12:15:32.137632Z",
-     "iopub.status.idle": "2024-06-11T12:15:34.712070Z",
-     "shell.execute_reply": "2024-06-11T12:15:34.709994Z"
+     "iopub.execute_input": "2024-06-11T13:01:24.339046Z",
+     "iopub.status.busy": "2024-06-11T13:01:24.307265Z",
+     "iopub.status.idle": "2024-06-11T13:01:27.074931Z",
+     "shell.execute_reply": "2024-06-11T13:01:27.072800Z"
     },
     "papermill": {
-     "duration": 2.582457,
-     "end_time": "2024-06-11T12:15:34.715179",
+     "duration": 2.775641,
+     "end_time": "2024-06-11T13:01:27.078280",
      "exception": false,
-     "start_time": "2024-06-11T12:15:32.132722",
+     "start_time": "2024-06-11T13:01:24.302639",
      "status": "completed"
     },
     "tags": []
@@ -133,19 +133,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "b5ab5150",
+   "id": "83670486",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T12:15:34.726313Z",
-     "iopub.status.busy": "2024-06-11T12:15:34.724395Z",
-     "iopub.status.idle": "2024-06-11T12:15:34.782292Z",
-     "shell.execute_reply": "2024-06-11T12:15:34.780333Z"
+     "iopub.execute_input": "2024-06-11T13:01:27.087931Z",
+     "iopub.status.busy": "2024-06-11T13:01:27.086271Z",
+     "iopub.status.idle": "2024-06-11T13:01:27.149449Z",
+     "shell.execute_reply": "2024-06-11T13:01:27.147613Z"
     },
     "papermill": {
-     "duration": 0.066441,
-     "end_time": "2024-06-11T12:15:34.785052",
+     "duration": 0.070894,
+     "end_time": "2024-06-11T13:01:27.152039",
      "exception": false,
-     "start_time": "2024-06-11T12:15:34.718611",
+     "start_time": "2024-06-11T13:01:27.081145",
      "status": "completed"
     },
     "tags": []
@@ -190,6 +190,24 @@
     {
      "data": {
       "text/html": [
+       "273"
+      ],
+      "text/latex": [
+       "273"
+      ],
+      "text/markdown": [
+       "273"
+      ],
+      "text/plain": [
+       "[1] 273"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
        "0.383426966292135"
       ],
       "text/latex": [
@@ -207,15 +225,11 @@
     }
    ],
    "source": [
-    "#Q1. Split titanic_clean into test and training sets - \n",
-    "#after running the setup code, it should have 891 rows and \n",
-    "#9 variables. Set the seed to 42, then use the caret package\n",
-    "#to create a 20% data partition based on the Survived column. \n",
-    "#Assign the 20% partition to test_set and the remaining 80% \n",
-    "#partition to train_set. \n",
+    "#Q1. Split titanic_clean into test and training sets - after running the setup code, it should have 891 rows and 9 variables.\n",
+    "#Set the seed to 42, then use the caret package to create a 20% data partition based on the Survived column. Assign the 20% partition to test_set and the remaining 80% partition to train_set.\n",
     "#How many observations are in the training set?\n",
     "#How many observations are in the test set?\n",
-    "#What proportion of individuals in the training set survived?\n",
+    "#What proportion of individuals in the training set survived??\n",
     "\n",
     "set.seed(42)\n",
     "index <- createDataPartition(titanic_clean$Survived, p = 0.2, list = FALSE)\n",
@@ -232,9 +246,61 @@
     "\n",
     "#Proportions of individuals that survived in the training set\n",
     "survived <- sum(train_set$Survived == 1)\n",
+    "survived\n",
     "total_train <-nrow(train_set)\n",
     "proportion_survived <- survived / total_train\n",
     "proportion_survived"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "31ac1f16",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-06-11T13:01:27.163266Z",
+     "iopub.status.busy": "2024-06-11T13:01:27.161389Z",
+     "iopub.status.idle": "2024-06-11T13:01:27.191669Z",
+     "shell.execute_reply": "2024-06-11T13:01:27.189514Z"
+    },
+    "papermill": {
+     "duration": 0.039348,
+     "end_time": "2024-06-11T13:01:27.194722",
+     "exception": false,
+     "start_time": "2024-06-11T13:01:27.155374",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "0.541899441340782"
+      ],
+      "text/latex": [
+       "0.541899441340782"
+      ],
+      "text/markdown": [
+       "0.541899441340782"
+      ],
+      "text/plain": [
+       "[1] 0.542"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Q2The simplest prediction method is randomly guessing the outcome without using additional predictors. These methods will help us determine whether our machine learning algorithm performs better than chance. How accurate are two methods of guessing Titanic passenger survival?\n",
+    "#Set the seed to 3. For each individual in the test set, randomly guess whether that person survived or not by sampling from the vector c(0,1) (Note: use the default argument setting of prob from the sample function).\n",
+    "#What is the accuracy of this guessing method?\n",
+    "\n",
+    "set.seed(3)\n",
+    "\n",
+    "guess <- sample(c(0,1), nrow(test_set), replace = TRUE)\n",
+    "mean(guess == test_set$Survived)"
    ]
   }
  ],
@@ -263,14 +329,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 7.857868,
-   "end_time": "2024-06-11T12:15:34.911362",
+   "duration": 8.615598,
+   "end_time": "2024-06-11T13:01:27.321556",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-11T12:15:27.053494",
+   "start_time": "2024-06-11T13:01:18.705958",
    "version": "2.5.0"
   }
  },
