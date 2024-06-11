@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "576c5b3e",
+   "id": "dee76d09",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2024-06-11T11:57:36.218781Z",
-     "iopub.status.busy": "2024-06-11T11:57:36.216469Z",
-     "iopub.status.idle": "2024-06-11T11:57:37.504643Z",
-     "shell.execute_reply": "2024-06-11T11:57:37.502666Z"
+     "iopub.execute_input": "2024-06-11T12:15:30.829674Z",
+     "iopub.status.busy": "2024-06-11T12:15:30.826981Z",
+     "iopub.status.idle": "2024-06-11T12:15:32.126886Z",
+     "shell.execute_reply": "2024-06-11T12:15:32.124853Z"
     },
     "papermill": {
-     "duration": 1.296396,
-     "end_time": "2024-06-11T11:57:37.507680",
+     "duration": 1.308292,
+     "end_time": "2024-06-11T12:15:32.129733",
      "exception": false,
-     "start_time": "2024-06-11T11:57:36.211284",
+     "start_time": "2024-06-11T12:15:30.821441",
      "status": "completed"
     },
     "tags": []
@@ -71,19 +71,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "b090a1f7",
+   "id": "5b14f0a7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T11:57:37.548713Z",
-     "iopub.status.busy": "2024-06-11T11:57:37.515377Z",
-     "iopub.status.idle": "2024-06-11T11:57:40.049641Z",
-     "shell.execute_reply": "2024-06-11T11:57:40.047713Z"
+     "iopub.execute_input": "2024-06-11T12:15:32.171247Z",
+     "iopub.status.busy": "2024-06-11T12:15:32.137632Z",
+     "iopub.status.idle": "2024-06-11T12:15:34.712070Z",
+     "shell.execute_reply": "2024-06-11T12:15:34.709994Z"
     },
     "papermill": {
-     "duration": 2.54206,
-     "end_time": "2024-06-11T11:57:40.052612",
+     "duration": 2.582457,
+     "end_time": "2024-06-11T12:15:34.715179",
      "exception": false,
-     "start_time": "2024-06-11T11:57:37.510552",
+     "start_time": "2024-06-11T12:15:32.132722",
      "status": "completed"
     },
     "tags": []
@@ -129,6 +129,113 @@
     "           FamilySize = SibSp + Parch + 1) %>%    # count family members\n",
     "    select(Survived,  Sex, Pclass, Age, Fare, SibSp, Parch, FamilySize, Embarked)"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "b5ab5150",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-06-11T12:15:34.726313Z",
+     "iopub.status.busy": "2024-06-11T12:15:34.724395Z",
+     "iopub.status.idle": "2024-06-11T12:15:34.782292Z",
+     "shell.execute_reply": "2024-06-11T12:15:34.780333Z"
+    },
+    "papermill": {
+     "duration": 0.066441,
+     "end_time": "2024-06-11T12:15:34.785052",
+     "exception": false,
+     "start_time": "2024-06-11T12:15:34.718611",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "712"
+      ],
+      "text/latex": [
+       "712"
+      ],
+      "text/markdown": [
+       "712"
+      ],
+      "text/plain": [
+       "[1] 712"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "179"
+      ],
+      "text/latex": [
+       "179"
+      ],
+      "text/markdown": [
+       "179"
+      ],
+      "text/plain": [
+       "[1] 179"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "0.383426966292135"
+      ],
+      "text/latex": [
+       "0.383426966292135"
+      ],
+      "text/markdown": [
+       "0.383426966292135"
+      ],
+      "text/plain": [
+       "[1] 0.383"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Q1. Split titanic_clean into test and training sets - \n",
+    "#after running the setup code, it should have 891 rows and \n",
+    "#9 variables. Set the seed to 42, then use the caret package\n",
+    "#to create a 20% data partition based on the Survived column. \n",
+    "#Assign the 20% partition to test_set and the remaining 80% \n",
+    "#partition to train_set. \n",
+    "#How many observations are in the training set?\n",
+    "#How many observations are in the test set?\n",
+    "#What proportion of individuals in the training set survived?\n",
+    "\n",
+    "set.seed(42)\n",
+    "index <- createDataPartition(titanic_clean$Survived, p = 0.2, list = FALSE)\n",
+    "\n",
+    "train_set <- titanic_clean[-index, ]\n",
+    "test_set <- titanic_clean[index, ]\n",
+    "\n",
+    "#Train set\n",
+    "nrow(train_set)\n",
+    "\n",
+    "#Test set\n",
+    "nrow(test_set)\n",
+    "\n",
+    "\n",
+    "#Proportions of individuals that survived in the training set\n",
+    "survived <- sum(train_set$Survived == 1)\n",
+    "total_train <-nrow(train_set)\n",
+    "proportion_survived <- survived / total_train\n",
+    "proportion_survived"
+   ]
   }
  ],
  "metadata": {
@@ -156,14 +263,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 7.632777,
-   "end_time": "2024-06-11T11:57:40.178680",
+   "duration": 7.857868,
+   "end_time": "2024-06-11T12:15:34.911362",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-11T11:57:32.545903",
+   "start_time": "2024-06-11T12:15:27.053494",
    "version": "2.5.0"
   }
  },
