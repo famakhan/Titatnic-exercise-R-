@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "0da750ce",
+   "id": "baae7d6c",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:39.784533Z",
-     "iopub.status.busy": "2024-06-11T14:40:39.781512Z",
-     "iopub.status.idle": "2024-06-11T14:40:41.370244Z",
-     "shell.execute_reply": "2024-06-11T14:40:41.368127Z"
+     "iopub.execute_input": "2024-06-11T15:35:43.561616Z",
+     "iopub.status.busy": "2024-06-11T15:35:43.558485Z",
+     "iopub.status.idle": "2024-06-11T15:35:44.827629Z",
+     "shell.execute_reply": "2024-06-11T15:35:44.825362Z"
     },
     "papermill": {
-     "duration": 1.59973,
-     "end_time": "2024-06-11T14:40:41.373118",
+     "duration": 1.281616,
+     "end_time": "2024-06-11T15:35:44.830676",
      "exception": false,
-     "start_time": "2024-06-11T14:40:39.773388",
+     "start_time": "2024-06-11T15:35:43.549060",
      "status": "completed"
     },
     "tags": []
@@ -71,19 +71,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "acafce6a",
+   "id": "f44ddb69",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:41.419617Z",
-     "iopub.status.busy": "2024-06-11T14:40:41.385111Z",
-     "iopub.status.idle": "2024-06-11T14:40:44.270625Z",
-     "shell.execute_reply": "2024-06-11T14:40:44.266785Z"
+     "iopub.execute_input": "2024-06-11T15:35:44.880852Z",
+     "iopub.status.busy": "2024-06-11T15:35:44.843694Z",
+     "iopub.status.idle": "2024-06-11T15:35:47.671809Z",
+     "shell.execute_reply": "2024-06-11T15:35:47.669394Z"
     },
     "papermill": {
-     "duration": 2.896723,
-     "end_time": "2024-06-11T14:40:44.275029",
+     "duration": 2.839845,
+     "end_time": "2024-06-11T15:35:47.675876",
      "exception": false,
-     "start_time": "2024-06-11T14:40:41.378306",
+     "start_time": "2024-06-11T15:35:44.836031",
      "status": "completed"
     },
     "tags": []
@@ -133,19 +133,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "a54f34b6",
+   "id": "89f74242",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:44.295951Z",
-     "iopub.status.busy": "2024-06-11T14:40:44.292882Z",
-     "iopub.status.idle": "2024-06-11T14:40:44.392248Z",
-     "shell.execute_reply": "2024-06-11T14:40:44.389647Z"
+     "iopub.execute_input": "2024-06-11T15:35:47.691617Z",
+     "iopub.status.busy": "2024-06-11T15:35:47.689870Z",
+     "iopub.status.idle": "2024-06-11T15:35:47.758236Z",
+     "shell.execute_reply": "2024-06-11T15:35:47.756116Z"
     },
     "papermill": {
-     "duration": 0.114364,
-     "end_time": "2024-06-11T14:40:44.395937",
+     "duration": 0.079505,
+     "end_time": "2024-06-11T15:35:47.761129",
      "exception": false,
-     "start_time": "2024-06-11T14:40:44.281573",
+     "start_time": "2024-06-11T15:35:47.681624",
      "status": "completed"
     },
     "tags": []
@@ -255,19 +255,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "1cabf922",
+   "id": "ff80f90a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:44.414232Z",
-     "iopub.status.busy": "2024-06-11T14:40:44.411643Z",
-     "iopub.status.idle": "2024-06-11T14:40:44.441017Z",
-     "shell.execute_reply": "2024-06-11T14:40:44.438922Z"
+     "iopub.execute_input": "2024-06-11T15:35:47.778318Z",
+     "iopub.status.busy": "2024-06-11T15:35:47.776344Z",
+     "iopub.status.idle": "2024-06-11T15:35:47.804953Z",
+     "shell.execute_reply": "2024-06-11T15:35:47.802768Z"
     },
     "papermill": {
-     "duration": 0.042151,
-     "end_time": "2024-06-11T14:40:44.444112",
+     "duration": 0.040129,
+     "end_time": "2024-06-11T15:35:47.807608",
      "exception": false,
-     "start_time": "2024-06-11T14:40:44.401961",
+     "start_time": "2024-06-11T15:35:47.767479",
      "status": "completed"
     },
     "tags": []
@@ -306,47 +306,37 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "07275db5",
+   "id": "44bb06d3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:44.462052Z",
-     "iopub.status.busy": "2024-06-11T14:40:44.460265Z",
-     "iopub.status.idle": "2024-06-11T14:40:44.576546Z",
-     "shell.execute_reply": "2024-06-11T14:40:44.574096Z"
+     "iopub.execute_input": "2024-06-11T15:35:47.825486Z",
+     "iopub.status.busy": "2024-06-11T15:35:47.823420Z",
+     "iopub.status.idle": "2024-06-11T15:35:47.926537Z",
+     "shell.execute_reply": "2024-06-11T15:35:47.924458Z"
     },
     "papermill": {
-     "duration": 0.130288,
-     "end_time": "2024-06-11T14:40:44.580576",
+     "duration": 0.115117,
+     "end_time": "2024-06-11T15:35:47.929247",
      "exception": false,
-     "start_time": "2024-06-11T14:40:44.450288",
+     "start_time": "2024-06-11T15:35:47.814130",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [
     {
-     "name": "stderr",
-     "output_type": "stream",
-     "text": [
-      "Warning message in mean.default(train_set$Survived[train_set$Sex == \"female\"], na.rm = TRUE):\n",
-      "“argument is not numeric or logical: returning NA”\n",
-      "Warning message in mean.default(train_set$Survived[train_set$Sex == \"male\"], na.rm = TRUE):\n",
-      "“argument is not numeric or logical: returning NA”\n"
-     ]
-    },
-    {
      "data": {
       "text/html": [
-       "&lt;NA&gt;"
+       "0.733067729083665"
       ],
       "text/latex": [
-       "<NA>"
+       "0.733067729083665"
       ],
       "text/markdown": [
-       "&lt;NA&gt;"
+       "0.733067729083665"
       ],
       "text/plain": [
-       "[1] NA"
+       "[1] 0.733"
       ]
      },
      "metadata": {},
@@ -355,16 +345,16 @@
     {
      "data": {
       "text/html": [
-       "&lt;NA&gt;"
+       "0.193058568329718"
       ],
       "text/latex": [
-       "<NA>"
+       "0.193058568329718"
       ],
       "text/markdown": [
-       "&lt;NA&gt;"
+       "0.193058568329718"
       ],
       "text/plain": [
-       "[1] NA"
+       "[1] 0.193"
       ]
      },
      "metadata": {},
@@ -380,8 +370,8 @@
        "\t<tr><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;dbl&gt;</th></tr>\n",
        "</thead>\n",
        "<tbody>\n",
-       "\t<tr><td>female</td><td>1.73</td></tr>\n",
-       "\t<tr><td>male  </td><td>1.19</td></tr>\n",
+       "\t<tr><td>female</td><td>0.733</td></tr>\n",
+       "\t<tr><td>male  </td><td>0.193</td></tr>\n",
        "</tbody>\n",
        "</table>\n"
       ],
@@ -391,8 +381,8 @@
        " Sex & proportion\\_survived\\\\\n",
        " <chr> & <dbl>\\\\\n",
        "\\hline\n",
-       "\t female & 1.73\\\\\n",
-       "\t male   & 1.19\\\\\n",
+       "\t female & 0.733\\\\\n",
+       "\t male   & 0.193\\\\\n",
        "\\end{tabular}\n"
       ],
       "text/markdown": [
@@ -401,14 +391,14 @@
        "\n",
        "| Sex &lt;chr&gt; | proportion_survived &lt;dbl&gt; |\n",
        "|---|---|\n",
-       "| female | 1.73 |\n",
-       "| male   | 1.19 |\n",
+       "| female | 0.733 |\n",
+       "| male   | 0.193 |\n",
        "\n"
       ],
       "text/plain": [
        "  Sex    proportion_survived\n",
-       "1 female 1.73               \n",
-       "2 male   1.19               "
+       "1 female 0.733              \n",
+       "2 male   0.193              "
       ]
      },
      "metadata": {},
@@ -421,7 +411,7 @@
     "#What proportion of training set males survived?\n",
     "\n",
     "\n",
-    "\n",
+    "train_set$Survived <- as.numeric(train_set$Survived) - 1\n",
     "proportion_female_survived <- mean(train_set$Survived[train_set$Sex == \"female\"], na.rm = TRUE)\n",
     "\n",
     "proportion_male_survived <- mean(train_set$Survived[train_set$Sex == \"male\"], na.rm = TRUE)\n",
@@ -442,19 +432,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "94f5312e",
+   "id": "ceb0ca1b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:44.601344Z",
-     "iopub.status.busy": "2024-06-11T14:40:44.599480Z",
-     "iopub.status.idle": "2024-06-11T14:40:44.627044Z",
-     "shell.execute_reply": "2024-06-11T14:40:44.624430Z"
+     "iopub.execute_input": "2024-06-11T15:35:47.947965Z",
+     "iopub.status.busy": "2024-06-11T15:35:47.946032Z",
+     "iopub.status.idle": "2024-06-11T15:35:47.974918Z",
+     "shell.execute_reply": "2024-06-11T15:35:47.972197Z"
     },
     "papermill": {
-     "duration": 0.042626,
-     "end_time": "2024-06-11T14:40:44.631329",
+     "duration": 0.042022,
+     "end_time": "2024-06-11T15:35:47.978351",
      "exception": false,
-     "start_time": "2024-06-11T14:40:44.588703",
+     "start_time": "2024-06-11T15:35:47.936329",
      "status": "completed"
     },
     "tags": []
@@ -491,19 +481,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "46333ff3",
+   "id": "5b44b668",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:44.650917Z",
-     "iopub.status.busy": "2024-06-11T14:40:44.649151Z",
-     "iopub.status.idle": "2024-06-11T14:40:44.688119Z",
-     "shell.execute_reply": "2024-06-11T14:40:44.685514Z"
+     "iopub.execute_input": "2024-06-11T15:35:47.997776Z",
+     "iopub.status.busy": "2024-06-11T15:35:47.995872Z",
+     "iopub.status.idle": "2024-06-11T15:35:48.036440Z",
+     "shell.execute_reply": "2024-06-11T15:35:48.033473Z"
     },
     "papermill": {
-     "duration": 0.053124,
-     "end_time": "2024-06-11T14:40:44.692197",
+     "duration": 0.053973,
+     "end_time": "2024-06-11T15:35:48.039840",
      "exception": false,
-     "start_time": "2024-06-11T14:40:44.639073",
+     "start_time": "2024-06-11T15:35:47.985867",
      "status": "completed"
     },
     "tags": []
@@ -541,19 +531,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "7289c7a3",
+   "id": "24f56f2d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:44.713501Z",
-     "iopub.status.busy": "2024-06-11T14:40:44.711260Z",
-     "iopub.status.idle": "2024-06-11T14:40:44.740498Z",
-     "shell.execute_reply": "2024-06-11T14:40:44.737488Z"
+     "iopub.execute_input": "2024-06-11T15:35:48.060149Z",
+     "iopub.status.busy": "2024-06-11T15:35:48.058163Z",
+     "iopub.status.idle": "2024-06-11T15:35:48.086200Z",
+     "shell.execute_reply": "2024-06-11T15:35:48.083366Z"
     },
     "papermill": {
-     "duration": 0.04389,
-     "end_time": "2024-06-11T14:40:44.744354",
+     "duration": 0.041985,
+     "end_time": "2024-06-11T15:35:48.089532",
      "exception": false,
-     "start_time": "2024-06-11T14:40:44.700464",
+     "start_time": "2024-06-11T15:35:48.047547",
      "status": "completed"
     },
     "tags": []
@@ -590,19 +580,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "4bfdcb93",
+   "id": "b4320548",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:44.766684Z",
-     "iopub.status.busy": "2024-06-11T14:40:44.764852Z",
-     "iopub.status.idle": "2024-06-11T14:40:44.805548Z",
-     "shell.execute_reply": "2024-06-11T14:40:44.802944Z"
+     "iopub.execute_input": "2024-06-11T15:35:48.109952Z",
+     "iopub.status.busy": "2024-06-11T15:35:48.107944Z",
+     "iopub.status.idle": "2024-06-11T15:35:48.150923Z",
+     "shell.execute_reply": "2024-06-11T15:35:48.148058Z"
     },
     "papermill": {
-     "duration": 0.056148,
-     "end_time": "2024-06-11T14:40:44.809100",
+     "duration": 0.057209,
+     "end_time": "2024-06-11T15:35:48.154659",
      "exception": false,
-     "start_time": "2024-06-11T14:40:44.752952",
+     "start_time": "2024-06-11T15:35:48.097450",
      "status": "completed"
     },
     "tags": []
@@ -668,19 +658,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "a0281a90",
+   "id": "0c7de890",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:40:44.830705Z",
-     "iopub.status.busy": "2024-06-11T14:40:44.828898Z",
-     "iopub.status.idle": "2024-06-11T14:40:44.855682Z",
-     "shell.execute_reply": "2024-06-11T14:40:44.852949Z"
+     "iopub.execute_input": "2024-06-11T15:35:48.176215Z",
+     "iopub.status.busy": "2024-06-11T15:35:48.174157Z",
+     "iopub.status.idle": "2024-06-11T15:35:48.202398Z",
+     "shell.execute_reply": "2024-06-11T15:35:48.199477Z"
     },
     "papermill": {
-     "duration": 0.041845,
-     "end_time": "2024-06-11T14:40:44.859390",
+     "duration": 0.043099,
+     "end_time": "2024-06-11T15:35:48.206105",
      "exception": false,
-     "start_time": "2024-06-11T14:40:44.817545",
+     "start_time": "2024-06-11T15:35:48.163006",
      "status": "completed"
     },
     "tags": []
@@ -716,14 +706,289 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 11,
+   "id": "9c548037",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-06-11T15:35:48.228245Z",
+     "iopub.status.busy": "2024-06-11T15:35:48.226176Z",
+     "iopub.status.idle": "2024-06-11T15:35:48.335568Z",
+     "shell.execute_reply": "2024-06-11T15:35:48.332885Z"
+    },
+    "papermill": {
+     "duration": 0.12442,
+     "end_time": "2024-06-11T15:35:48.339105",
+     "exception": false,
+     "start_time": "2024-06-11T15:35:48.214685",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Confusion Matrix and Statistics\n",
+       "\n",
+       "          Reference\n",
+       "Prediction  0  1\n",
+       "         0 96 20\n",
+       "         1 14 49\n",
+       "                                        \n",
+       "               Accuracy : 0.81          \n",
+       "                 95% CI : (0.745, 0.865)\n",
+       "    No Information Rate : 0.615         \n",
+       "    P-Value [Acc > NIR] : 1.35e-08      \n",
+       "                                        \n",
+       "                  Kappa : 0.592         \n",
+       "                                        \n",
+       " Mcnemar's Test P-Value : 0.391         \n",
+       "                                        \n",
+       "            Sensitivity : 0.873         \n",
+       "            Specificity : 0.710         \n",
+       "         Pos Pred Value : 0.828         \n",
+       "         Neg Pred Value : 0.778         \n",
+       "             Prevalence : 0.615         \n",
+       "         Detection Rate : 0.536         \n",
+       "   Detection Prevalence : 0.648         \n",
+       "      Balanced Accuracy : 0.791         \n",
+       "                                        \n",
+       "       'Positive' Class : 0             \n",
+       "                                        "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "Confusion Matrix and Statistics\n",
+       "\n",
+       "          Reference\n",
+       "Prediction  0  1\n",
+       "         0 98 45\n",
+       "         1 12 24\n",
+       "                                        \n",
+       "               Accuracy : 0.682         \n",
+       "                 95% CI : (0.608, 0.749)\n",
+       "    No Information Rate : 0.615         \n",
+       "    P-Value [Acc > NIR] : 0.0375        \n",
+       "                                        \n",
+       "                  Kappa : 0.262         \n",
+       "                                        \n",
+       " Mcnemar's Test P-Value : 2.25e-05      \n",
+       "                                        \n",
+       "            Sensitivity : 0.891         \n",
+       "            Specificity : 0.348         \n",
+       "         Pos Pred Value : 0.685         \n",
+       "         Neg Pred Value : 0.667         \n",
+       "             Prevalence : 0.615         \n",
+       "         Detection Rate : 0.547         \n",
+       "   Detection Prevalence : 0.799         \n",
+       "      Balanced Accuracy : 0.619         \n",
+       "                                        \n",
+       "       'Positive' Class : 0             \n",
+       "                                        "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "Confusion Matrix and Statistics\n",
+       "\n",
+       "          Reference\n",
+       "Prediction   0   1\n",
+       "         0 109  36\n",
+       "         1   1  33\n",
+       "                                       \n",
+       "               Accuracy : 0.793        \n",
+       "                 95% CI : (0.727, 0.85)\n",
+       "    No Information Rate : 0.615        \n",
+       "    P-Value [Acc > NIR] : 2.28e-07     \n",
+       "                                       \n",
+       "                  Kappa : 0.518        \n",
+       "                                       \n",
+       " Mcnemar's Test P-Value : 2.28e-08     \n",
+       "                                       \n",
+       "            Sensitivity : 0.991        \n",
+       "            Specificity : 0.478        \n",
+       "         Pos Pred Value : 0.752        \n",
+       "         Neg Pred Value : 0.971        \n",
+       "             Prevalence : 0.615        \n",
+       "         Detection Rate : 0.609        \n",
+       "   Detection Prevalence : 0.810        \n",
+       "      Balanced Accuracy : 0.735        \n",
+       "                                       \n",
+       "       'Positive' Class : 0            \n",
+       "                                       "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Q5a.Use the confusionMatrix() function to create confusion matrices for the sex model, class model, and combined sex and class model. You will need to convert predictions and survival status to factors to use this function.\n",
+    "#What is the \"positive\" class used to calculate confusion matrix metrics?\n",
+    "#Which model has the highest sensitivity?\n",
+    "#Which model has the highest specificity?\n",
+    "#Which model has the highest balanced accuracy?\n",
+    "\n",
+    "\n",
+    "confusionMatrix(data = factor(sex_model), reference = factor(test_set$Survived))\n",
+    "confusionMatrix(data = factor(class_model), reference = factor(test_set$Survived))\n",
+    "confusionMatrix(data = factor(sex_class_model), reference = factor(test_set$Survived))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "4c01f180",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-06-11T15:35:48.361916Z",
+     "iopub.status.busy": "2024-06-11T15:35:48.359795Z",
+     "iopub.status.idle": "2024-06-11T15:35:48.413293Z",
+     "shell.execute_reply": "2024-06-11T15:35:48.410636Z"
+    },
+    "papermill": {
+     "duration": 0.068913,
+     "end_time": "2024-06-11T15:35:48.416924",
+     "exception": false,
+     "start_time": "2024-06-11T15:35:48.348011",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "Confusion Matrix and Statistics\n",
+       "\n",
+       "          Reference\n",
+       "Prediction  0  1\n",
+       "         0 96 20\n",
+       "         1 14 49\n",
+       "                                        \n",
+       "               Accuracy : 0.81          \n",
+       "                 95% CI : (0.745, 0.865)\n",
+       "    No Information Rate : 0.615         \n",
+       "    P-Value [Acc > NIR] : 1.35e-08      \n",
+       "                                        \n",
+       "                  Kappa : 0.592         \n",
+       "                                        \n",
+       " Mcnemar's Test P-Value : 0.391         \n",
+       "                                        \n",
+       "            Sensitivity : 0.873         \n",
+       "            Specificity : 0.710         \n",
+       "         Pos Pred Value : 0.828         \n",
+       "         Neg Pred Value : 0.778         \n",
+       "             Prevalence : 0.615         \n",
+       "         Detection Rate : 0.536         \n",
+       "   Detection Prevalence : 0.648         \n",
+       "      Balanced Accuracy : 0.791         \n",
+       "                                        \n",
+       "       'Positive' Class : 0             \n",
+       "                                        "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "Confusion Matrix and Statistics\n",
+       "\n",
+       "          Reference\n",
+       "Prediction  0  1\n",
+       "         0 98 45\n",
+       "         1 12 24\n",
+       "                                        \n",
+       "               Accuracy : 0.682         \n",
+       "                 95% CI : (0.608, 0.749)\n",
+       "    No Information Rate : 0.615         \n",
+       "    P-Value [Acc > NIR] : 0.0375        \n",
+       "                                        \n",
+       "                  Kappa : 0.262         \n",
+       "                                        \n",
+       " Mcnemar's Test P-Value : 2.25e-05      \n",
+       "                                        \n",
+       "            Sensitivity : 0.891         \n",
+       "            Specificity : 0.348         \n",
+       "         Pos Pred Value : 0.685         \n",
+       "         Neg Pred Value : 0.667         \n",
+       "             Prevalence : 0.615         \n",
+       "         Detection Rate : 0.547         \n",
+       "   Detection Prevalence : 0.799         \n",
+       "      Balanced Accuracy : 0.619         \n",
+       "                                        \n",
+       "       'Positive' Class : 0             \n",
+       "                                        "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "Confusion Matrix and Statistics\n",
+       "\n",
+       "          Reference\n",
+       "Prediction   0   1\n",
+       "         0 109  36\n",
+       "         1   1  33\n",
+       "                                       \n",
+       "               Accuracy : 0.793        \n",
+       "                 95% CI : (0.727, 0.85)\n",
+       "    No Information Rate : 0.615        \n",
+       "    P-Value [Acc > NIR] : 2.28e-07     \n",
+       "                                       \n",
+       "                  Kappa : 0.518        \n",
+       "                                       \n",
+       " Mcnemar's Test P-Value : 2.28e-08     \n",
+       "                                       \n",
+       "            Sensitivity : 0.991        \n",
+       "            Specificity : 0.478        \n",
+       "         Pos Pred Value : 0.752        \n",
+       "         Neg Pred Value : 0.971        \n",
+       "             Prevalence : 0.615        \n",
+       "         Detection Rate : 0.609        \n",
+       "   Detection Prevalence : 0.810        \n",
+       "      Balanced Accuracy : 0.735        \n",
+       "                                       \n",
+       "       'Positive' Class : 0            \n",
+       "                                       "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Q5b.What is the maximum value of balanced accuracy from Q5a?\n",
+    "\n",
+    "confusionMatrix(data = factor(sex_model), reference = factor(test_set$Survived))\n",
+    "confusionMatrix(data = factor(class_model), reference = factor(test_set$Survived))\n",
+    "confusionMatrix(data = factor(sex_class_model), reference = factor(test_set$Survived))\n"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
-   "id": "1f6d50ac",
+   "id": "eaa41279",
    "metadata": {
     "papermill": {
-     "duration": 0.009513,
-     "end_time": "2024-06-11T14:40:44.877528",
+     "duration": 0.009608,
+     "end_time": "2024-06-11T15:35:48.435971",
      "exception": false,
-     "start_time": "2024-06-11T14:40:44.868015",
+     "start_time": "2024-06-11T15:35:48.426363",
      "status": "completed"
     },
     "tags": []
@@ -757,14 +1022,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 9.345591,
-   "end_time": "2024-06-11T14:40:45.013012",
+   "duration": 8.774537,
+   "end_time": "2024-06-11T15:35:48.573354",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-11T14:40:35.667421",
+   "start_time": "2024-06-11T15:35:39.798817",
    "version": "2.5.0"
   }
  },
