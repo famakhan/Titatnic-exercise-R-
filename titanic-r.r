@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "c7ffbf4a",
+   "id": "689ee8e7",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:00:12.759201Z",
-     "iopub.status.busy": "2024-06-11T14:00:12.756656Z",
-     "iopub.status.idle": "2024-06-11T14:00:13.944811Z",
-     "shell.execute_reply": "2024-06-11T14:00:13.942992Z"
+     "iopub.execute_input": "2024-06-11T14:13:53.646795Z",
+     "iopub.status.busy": "2024-06-11T14:13:53.644215Z",
+     "iopub.status.idle": "2024-06-11T14:13:54.904867Z",
+     "shell.execute_reply": "2024-06-11T14:13:54.902853Z"
     },
     "papermill": {
-     "duration": 1.196529,
-     "end_time": "2024-06-11T14:00:13.947388",
+     "duration": 1.270091,
+     "end_time": "2024-06-11T14:13:54.908243",
      "exception": false,
-     "start_time": "2024-06-11T14:00:12.750859",
+     "start_time": "2024-06-11T14:13:53.638152",
      "status": "completed"
     },
     "tags": []
@@ -71,19 +71,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "351fd4ad",
+   "id": "b2f4e81e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:00:13.987812Z",
-     "iopub.status.busy": "2024-06-11T14:00:13.955801Z",
-     "iopub.status.idle": "2024-06-11T14:00:16.281112Z",
-     "shell.execute_reply": "2024-06-11T14:00:16.279270Z"
+     "iopub.execute_input": "2024-06-11T14:13:54.948824Z",
+     "iopub.status.busy": "2024-06-11T14:13:54.916232Z",
+     "iopub.status.idle": "2024-06-11T14:13:57.371008Z",
+     "shell.execute_reply": "2024-06-11T14:13:57.369112Z"
     },
     "papermill": {
-     "duration": 2.334348,
-     "end_time": "2024-06-11T14:00:16.284453",
+     "duration": 2.4627,
+     "end_time": "2024-06-11T14:13:57.373983",
      "exception": false,
-     "start_time": "2024-06-11T14:00:13.950105",
+     "start_time": "2024-06-11T14:13:54.911283",
      "status": "completed"
     },
     "tags": []
@@ -133,19 +133,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "58d194d3",
+   "id": "3390aa35",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:00:16.293734Z",
-     "iopub.status.busy": "2024-06-11T14:00:16.292200Z",
-     "iopub.status.idle": "2024-06-11T14:00:16.356902Z",
-     "shell.execute_reply": "2024-06-11T14:00:16.354633Z"
+     "iopub.execute_input": "2024-06-11T14:13:57.384945Z",
+     "iopub.status.busy": "2024-06-11T14:13:57.383281Z",
+     "iopub.status.idle": "2024-06-11T14:13:57.445449Z",
+     "shell.execute_reply": "2024-06-11T14:13:57.443567Z"
     },
     "papermill": {
-     "duration": 0.072576,
-     "end_time": "2024-06-11T14:00:16.359941",
+     "duration": 0.07078,
+     "end_time": "2024-06-11T14:13:57.448115",
      "exception": false,
-     "start_time": "2024-06-11T14:00:16.287365",
+     "start_time": "2024-06-11T14:13:57.377335",
      "status": "completed"
     },
     "tags": []
@@ -255,19 +255,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "706e3dca",
+   "id": "142960c5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:00:16.371167Z",
-     "iopub.status.busy": "2024-06-11T14:00:16.369493Z",
-     "iopub.status.idle": "2024-06-11T14:00:16.396587Z",
-     "shell.execute_reply": "2024-06-11T14:00:16.394253Z"
+     "iopub.execute_input": "2024-06-11T14:13:57.460114Z",
+     "iopub.status.busy": "2024-06-11T14:13:57.458087Z",
+     "iopub.status.idle": "2024-06-11T14:13:57.483326Z",
+     "shell.execute_reply": "2024-06-11T14:13:57.481484Z"
     },
     "papermill": {
-     "duration": 0.035964,
-     "end_time": "2024-06-11T14:00:16.399693",
+     "duration": 0.034276,
+     "end_time": "2024-06-11T14:13:57.486332",
      "exception": false,
-     "start_time": "2024-06-11T14:00:16.363729",
+     "start_time": "2024-06-11T14:13:57.452056",
      "status": "completed"
     },
     "tags": []
@@ -306,19 +306,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "c36f6b0e",
+   "id": "e290d3d2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:00:16.410410Z",
-     "iopub.status.busy": "2024-06-11T14:00:16.408796Z",
-     "iopub.status.idle": "2024-06-11T14:00:16.503763Z",
-     "shell.execute_reply": "2024-06-11T14:00:16.501953Z"
+     "iopub.execute_input": "2024-06-11T14:13:57.498300Z",
+     "iopub.status.busy": "2024-06-11T14:13:57.496582Z",
+     "iopub.status.idle": "2024-06-11T14:13:57.591610Z",
+     "shell.execute_reply": "2024-06-11T14:13:57.589702Z"
     },
     "papermill": {
-     "duration": 0.103659,
-     "end_time": "2024-06-11T14:00:16.506902",
+     "duration": 0.103816,
+     "end_time": "2024-06-11T14:13:57.594141",
      "exception": false,
-     "start_time": "2024-06-11T14:00:16.403243",
+     "start_time": "2024-06-11T14:13:57.490325",
      "status": "completed"
     },
     "tags": []
@@ -442,19 +442,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "7481d7e2",
+   "id": "81ff6d4e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T14:00:16.518684Z",
-     "iopub.status.busy": "2024-06-11T14:00:16.517095Z",
-     "iopub.status.idle": "2024-06-11T14:00:16.540545Z",
-     "shell.execute_reply": "2024-06-11T14:00:16.538688Z"
+     "iopub.execute_input": "2024-06-11T14:13:57.606953Z",
+     "iopub.status.busy": "2024-06-11T14:13:57.605335Z",
+     "iopub.status.idle": "2024-06-11T14:13:57.627766Z",
+     "shell.execute_reply": "2024-06-11T14:13:57.625902Z"
     },
     "papermill": {
-     "duration": 0.032839,
-     "end_time": "2024-06-11T14:00:16.543819",
+     "duration": 0.031685,
+     "end_time": "2024-06-11T14:13:57.630350",
      "exception": false,
-     "start_time": "2024-06-11T14:00:16.510980",
+     "start_time": "2024-06-11T14:13:57.598665",
      "status": "completed"
     },
     "tags": []
@@ -487,6 +487,105 @@
     "mean(sex_model == test_set$Survived) \n",
     "\n"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "6f5555b4",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-06-11T14:13:57.643753Z",
+     "iopub.status.busy": "2024-06-11T14:13:57.642061Z",
+     "iopub.status.idle": "2024-06-11T14:13:57.675932Z",
+     "shell.execute_reply": "2024-06-11T14:13:57.674080Z"
+    },
+    "papermill": {
+     "duration": 0.043512,
+     "end_time": "2024-06-11T14:13:57.678653",
+     "exception": false,
+     "start_time": "2024-06-11T14:13:57.635141",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "1"
+      ],
+      "text/latex": [
+       "1"
+      ],
+      "text/markdown": [
+       "1"
+      ],
+      "text/plain": [
+       "[1] 1"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Q4a. In the training set, which class(es) (Pclass) were passengers more likely to survive than die? Note that \"more likely to survive than die\" (probability > 50%) is distinct from \"equally likely to survive or die\" (probability = 50%).\n",
+    "\n",
+    "survival_rates <- aggregate(Survived ~ Pclass, data = train_set, FUN = function(x) mean(x == 1))\n",
+    "\n",
+    "classes_more_likely_to_survive <- survival_rates$Pclass[survival_rates$Survived > 0.5]\n",
+    "\n",
+    "classes_more_likely_to_survive\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "16a6ddce",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-06-11T14:13:57.693396Z",
+     "iopub.status.busy": "2024-06-11T14:13:57.691712Z",
+     "iopub.status.idle": "2024-06-11T14:13:57.715145Z",
+     "shell.execute_reply": "2024-06-11T14:13:57.713220Z"
+    },
+    "papermill": {
+     "duration": 0.034022,
+     "end_time": "2024-06-11T14:13:57.717924",
+     "exception": false,
+     "start_time": "2024-06-11T14:13:57.683902",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "0.681564245810056"
+      ],
+      "text/latex": [
+       "0.681564245810056"
+      ],
+      "text/markdown": [
+       "0.681564245810056"
+      ],
+      "text/plain": [
+       "[1] 0.682"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Q4b. Predict survival using passenger class on the test set: predict survival if the survival rate for a class is over 0.5, otherwise predict death.\n",
+    "#What is the accuracy of this class-based prediction method on the test set?\n",
+    "\n",
+    "\n",
+    "class_model <- ifelse(test_set$Pclass == 1, 1, 0)  \n",
+    "mean(class_model == test_set$Survived) \n"
+   ]
   }
  ],
  "metadata": {
@@ -514,14 +613,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 7.423355,
-   "end_time": "2024-06-11T14:00:16.670075",
+   "duration": 7.812811,
+   "end_time": "2024-06-11T14:13:57.846832",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-11T14:00:09.246720",
+   "start_time": "2024-06-11T14:13:50.034021",
    "version": "2.5.0"
   }
  },
