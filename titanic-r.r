@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "25aa56a3",
+   "id": "74fafcb8",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:24.348026Z",
-     "iopub.status.busy": "2024-06-11T15:46:24.345965Z",
-     "iopub.status.idle": "2024-06-11T15:46:25.544196Z",
-     "shell.execute_reply": "2024-06-11T15:46:25.542067Z"
+     "iopub.execute_input": "2024-06-11T15:57:22.242497Z",
+     "iopub.status.busy": "2024-06-11T15:57:22.240004Z",
+     "iopub.status.idle": "2024-06-11T15:57:23.443612Z",
+     "shell.execute_reply": "2024-06-11T15:57:23.441808Z"
     },
     "papermill": {
-     "duration": 1.207191,
-     "end_time": "2024-06-11T15:46:25.546941",
+     "duration": 1.214014,
+     "end_time": "2024-06-11T15:57:23.446274",
      "exception": false,
-     "start_time": "2024-06-11T15:46:24.339750",
+     "start_time": "2024-06-11T15:57:22.232260",
      "status": "completed"
     },
     "tags": []
@@ -71,19 +71,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "63b2be3a",
+   "id": "c3fc32a1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:25.587594Z",
-     "iopub.status.busy": "2024-06-11T15:46:25.556871Z",
-     "iopub.status.idle": "2024-06-11T15:46:27.899289Z",
-     "shell.execute_reply": "2024-06-11T15:46:27.897420Z"
+     "iopub.execute_input": "2024-06-11T15:57:23.487782Z",
+     "iopub.status.busy": "2024-06-11T15:57:23.457373Z",
+     "iopub.status.idle": "2024-06-11T15:57:25.850778Z",
+     "shell.execute_reply": "2024-06-11T15:57:25.848887Z"
     },
     "papermill": {
-     "duration": 2.350839,
-     "end_time": "2024-06-11T15:46:27.901671",
+     "duration": 2.403193,
+     "end_time": "2024-06-11T15:57:25.854105",
      "exception": false,
-     "start_time": "2024-06-11T15:46:25.550832",
+     "start_time": "2024-06-11T15:57:23.450912",
      "status": "completed"
     },
     "tags": []
@@ -133,19 +133,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "90f321f2",
+   "id": "05ec663b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:27.914013Z",
-     "iopub.status.busy": "2024-06-11T15:46:27.912397Z",
-     "iopub.status.idle": "2024-06-11T15:46:27.972520Z",
-     "shell.execute_reply": "2024-06-11T15:46:27.970777Z"
+     "iopub.execute_input": "2024-06-11T15:57:25.867036Z",
+     "iopub.status.busy": "2024-06-11T15:57:25.865426Z",
+     "iopub.status.idle": "2024-06-11T15:57:25.931316Z",
+     "shell.execute_reply": "2024-06-11T15:57:25.928925Z"
     },
     "papermill": {
-     "duration": 0.068935,
-     "end_time": "2024-06-11T15:46:27.974822",
+     "duration": 0.075761,
+     "end_time": "2024-06-11T15:57:25.934430",
      "exception": false,
-     "start_time": "2024-06-11T15:46:27.905887",
+     "start_time": "2024-06-11T15:57:25.858669",
      "status": "completed"
     },
     "tags": []
@@ -255,19 +255,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "58404235",
+   "id": "41e17237",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:27.987822Z",
-     "iopub.status.busy": "2024-06-11T15:46:27.986208Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.009867Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.008162Z"
+     "iopub.execute_input": "2024-06-11T15:57:25.948729Z",
+     "iopub.status.busy": "2024-06-11T15:57:25.947116Z",
+     "iopub.status.idle": "2024-06-11T15:57:25.973268Z",
+     "shell.execute_reply": "2024-06-11T15:57:25.970842Z"
     },
     "papermill": {
-     "duration": 0.032831,
-     "end_time": "2024-06-11T15:46:28.012352",
+     "duration": 0.036844,
+     "end_time": "2024-06-11T15:57:25.976512",
      "exception": false,
-     "start_time": "2024-06-11T15:46:27.979521",
+     "start_time": "2024-06-11T15:57:25.939668",
      "status": "completed"
     },
     "tags": []
@@ -306,19 +306,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "66ad8b02",
+   "id": "04b0c770",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:28.025995Z",
-     "iopub.status.busy": "2024-06-11T15:46:28.024396Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.110108Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.108252Z"
+     "iopub.execute_input": "2024-06-11T15:57:25.991112Z",
+     "iopub.status.busy": "2024-06-11T15:57:25.989484Z",
+     "iopub.status.idle": "2024-06-11T15:57:26.079412Z",
+     "shell.execute_reply": "2024-06-11T15:57:26.077533Z"
     },
     "papermill": {
-     "duration": 0.095128,
-     "end_time": "2024-06-11T15:46:28.112556",
+     "duration": 0.100536,
+     "end_time": "2024-06-11T15:57:26.082461",
      "exception": false,
-     "start_time": "2024-06-11T15:46:28.017428",
+     "start_time": "2024-06-11T15:57:25.981925",
      "status": "completed"
     },
     "tags": []
@@ -432,19 +432,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "ed936c0c",
+   "id": "f708c868",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:28.127438Z",
-     "iopub.status.busy": "2024-06-11T15:46:28.125852Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.147010Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.145293Z"
+     "iopub.execute_input": "2024-06-11T15:57:26.097746Z",
+     "iopub.status.busy": "2024-06-11T15:57:26.096027Z",
+     "iopub.status.idle": "2024-06-11T15:57:26.119736Z",
+     "shell.execute_reply": "2024-06-11T15:57:26.117808Z"
     },
     "papermill": {
-     "duration": 0.031394,
-     "end_time": "2024-06-11T15:46:28.149459",
+     "duration": 0.034817,
+     "end_time": "2024-06-11T15:57:26.122994",
      "exception": false,
-     "start_time": "2024-06-11T15:46:28.118065",
+     "start_time": "2024-06-11T15:57:26.088177",
      "status": "completed"
     },
     "tags": []
@@ -481,19 +481,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "16441cfc",
+   "id": "17a1e2de",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:28.163959Z",
-     "iopub.status.busy": "2024-06-11T15:46:28.162479Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.194840Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.193099Z"
+     "iopub.execute_input": "2024-06-11T15:57:26.138768Z",
+     "iopub.status.busy": "2024-06-11T15:57:26.137140Z",
+     "iopub.status.idle": "2024-06-11T15:57:26.172329Z",
+     "shell.execute_reply": "2024-06-11T15:57:26.169869Z"
     },
     "papermill": {
-     "duration": 0.042204,
-     "end_time": "2024-06-11T15:46:28.197310",
+     "duration": 0.046405,
+     "end_time": "2024-06-11T15:57:26.175483",
      "exception": false,
-     "start_time": "2024-06-11T15:46:28.155106",
+     "start_time": "2024-06-11T15:57:26.129078",
      "status": "completed"
     },
     "tags": []
@@ -531,19 +531,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "f931a6d8",
+   "id": "0b3b6d27",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:28.212502Z",
-     "iopub.status.busy": "2024-06-11T15:46:28.210929Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.231374Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.229641Z"
+     "iopub.execute_input": "2024-06-11T15:57:26.191476Z",
+     "iopub.status.busy": "2024-06-11T15:57:26.189828Z",
+     "iopub.status.idle": "2024-06-11T15:57:26.212900Z",
+     "shell.execute_reply": "2024-06-11T15:57:26.210512Z"
     },
     "papermill": {
-     "duration": 0.030522,
-     "end_time": "2024-06-11T15:46:28.233641",
+     "duration": 0.03444,
+     "end_time": "2024-06-11T15:57:26.215955",
      "exception": false,
-     "start_time": "2024-06-11T15:46:28.203119",
+     "start_time": "2024-06-11T15:57:26.181515",
      "status": "completed"
     },
     "tags": []
@@ -580,19 +580,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "e3b1fc4d",
+   "id": "f1e0a7b1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:28.249079Z",
-     "iopub.status.busy": "2024-06-11T15:46:28.247439Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.279621Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.277890Z"
+     "iopub.execute_input": "2024-06-11T15:57:26.232002Z",
+     "iopub.status.busy": "2024-06-11T15:57:26.230437Z",
+     "iopub.status.idle": "2024-06-11T15:57:26.265411Z",
+     "shell.execute_reply": "2024-06-11T15:57:26.263015Z"
     },
     "papermill": {
-     "duration": 0.042518,
-     "end_time": "2024-06-11T15:46:28.282064",
+     "duration": 0.046403,
+     "end_time": "2024-06-11T15:57:26.268467",
      "exception": false,
-     "start_time": "2024-06-11T15:46:28.239546",
+     "start_time": "2024-06-11T15:57:26.222064",
      "status": "completed"
     },
     "tags": []
@@ -658,19 +658,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "f6f4a6c2",
+   "id": "614b70e0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:28.297441Z",
-     "iopub.status.busy": "2024-06-11T15:46:28.295798Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.316628Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.314833Z"
+     "iopub.execute_input": "2024-06-11T15:57:26.285293Z",
+     "iopub.status.busy": "2024-06-11T15:57:26.283577Z",
+     "iopub.status.idle": "2024-06-11T15:57:26.307045Z",
+     "shell.execute_reply": "2024-06-11T15:57:26.304559Z"
     },
     "papermill": {
-     "duration": 0.03099,
-     "end_time": "2024-06-11T15:46:28.318990",
+     "duration": 0.035399,
+     "end_time": "2024-06-11T15:57:26.310251",
      "exception": false,
-     "start_time": "2024-06-11T15:46:28.288000",
+     "start_time": "2024-06-11T15:57:26.274852",
      "status": "completed"
     },
     "tags": []
@@ -707,19 +707,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "bd7bf93b",
+   "id": "d8af1a63",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:28.335319Z",
-     "iopub.status.busy": "2024-06-11T15:46:28.333477Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.421202Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.419124Z"
+     "iopub.execute_input": "2024-06-11T15:57:26.327219Z",
+     "iopub.status.busy": "2024-06-11T15:57:26.325612Z",
+     "iopub.status.idle": "2024-06-11T15:57:26.418326Z",
+     "shell.execute_reply": "2024-06-11T15:57:26.416100Z"
     },
     "papermill": {
-     "duration": 0.098793,
-     "end_time": "2024-06-11T15:46:28.423780",
+     "duration": 0.104693,
+     "end_time": "2024-06-11T15:57:26.421458",
      "exception": false,
-     "start_time": "2024-06-11T15:46:28.324987",
+     "start_time": "2024-06-11T15:57:26.316765",
      "status": "completed"
     },
     "tags": []
@@ -847,19 +847,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "fcaf9b78",
+   "id": "e358eaf3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:28.440384Z",
-     "iopub.status.busy": "2024-06-11T15:46:28.438776Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.478736Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.476954Z"
+     "iopub.execute_input": "2024-06-11T15:57:26.439233Z",
+     "iopub.status.busy": "2024-06-11T15:57:26.437626Z",
+     "iopub.status.idle": "2024-06-11T15:57:26.482591Z",
+     "shell.execute_reply": "2024-06-11T15:57:26.480233Z"
     },
     "papermill": {
-     "duration": 0.05073,
-     "end_time": "2024-06-11T15:46:28.481070",
+     "duration": 0.057321,
+     "end_time": "2024-06-11T15:57:26.485879",
      "exception": false,
-     "start_time": "2024-06-11T15:46:28.430340",
+     "start_time": "2024-06-11T15:57:26.428558",
      "status": "completed"
     },
     "tags": []
@@ -982,19 +982,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "3b4f7850",
+   "id": "a508e90e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-11T15:46:28.499317Z",
-     "iopub.status.busy": "2024-06-11T15:46:28.497468Z",
-     "iopub.status.idle": "2024-06-11T15:46:28.529958Z",
-     "shell.execute_reply": "2024-06-11T15:46:28.528204Z"
+     "iopub.execute_input": "2024-06-11T15:57:26.504434Z",
+     "iopub.status.busy": "2024-06-11T15:57:26.502775Z",
+     "iopub.status.idle": "2024-06-11T15:57:26.539657Z",
+     "shell.execute_reply": "2024-06-11T15:57:26.537884Z"
     },
     "papermill": {
-     "duration": 0.04434,
-     "end_time": "2024-06-11T15:46:28.532404",
+     "duration": 0.049773,
+     "end_time": "2024-06-11T15:57:26.542967",
      "exception": false,
-     "start_time": "2024-06-11T15:46:28.488064",
+     "start_time": "2024-06-11T15:57:26.493194",
      "status": "completed"
     },
     "tags": []
@@ -1066,6 +1066,302 @@
     "F_meas(data = factor(sex_class_model), reference = test_set$Survived)\n",
     "      "
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "6001708d",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-06-11T15:57:26.562443Z",
+     "iopub.status.busy": "2024-06-11T15:57:26.560731Z",
+     "iopub.status.idle": "2024-06-11T15:57:27.631101Z",
+     "shell.execute_reply": "2024-06-11T15:57:27.629143Z"
+    },
+    "papermill": {
+     "duration": 1.083223,
+     "end_time": "2024-06-11T15:57:27.634086",
+     "exception": false,
+     "start_time": "2024-06-11T15:57:26.550863",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Warning message in train.default(x, y, weights = w, ...):\n",
+      "“You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.”\n",
+      "Loading required package: gam\n",
+      "\n",
+      "Loading required package: splines\n",
+      "\n",
+      "Loading required package: foreach\n",
+      "\n",
+      "\n",
+      "Attaching package: ‘foreach’\n",
+      "\n",
+      "\n",
+      "The following objects are masked from ‘package:purrr’:\n",
+      "\n",
+      "    accumulate, when\n",
+      "\n",
+      "\n",
+      "Loaded gam 1.22-3\n",
+      "\n",
+      "\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“eval  512.33”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“upperlimit  264.31”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“extrapolation not allowed with blending”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“eval  512.33”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“upperlimit  264.31”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“extrapolation not allowed with blending”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“eval  512.33”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“upperlimit  264.31”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“extrapolation not allowed with blending”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“eval  512.33”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“upperlimit  264.31”\n",
+      "Warning message in gam.lo(data[[\"lo(Fare, span = 0.5, degree = 1)\"]], z, w, span = 0.5, :\n",
+      "“extrapolation not allowed with blending”\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "0"
+      ],
+      "text/latex": [
+       "0"
+      ],
+      "text/markdown": [
+       "0"
+      ],
+      "text/plain": [
+       "[1] 0"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Q7. Set the seed to 1. Train a model using Loess with the caret gamLoess method using fare as the only predictor.\n",
+    "#What is the accuracy on the test set for the Loess model?\n",
+    "#Note: when training models for Titanic Exercises Part 2, please use the S3 method for class formula rather than the default S3 method of caret train() (see ?caret::train for details).\n",
+    "\n",
+    "\n",
+    "set.seed(1) \n",
+    "train_loess <- train(Survived ~ Fare, method = \"gamLoess\", data = train_set)\n",
+    "loess_preds <- predict(train_loess, test_set)\n",
+    "mean(loess_preds == test_set$Survived)\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "71649c5e",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-06-11T15:57:27.657177Z",
+     "iopub.status.busy": "2024-06-11T15:57:27.655623Z",
+     "iopub.status.idle": "2024-06-11T15:57:28.946608Z",
+     "shell.execute_reply": "2024-06-11T15:57:28.944228Z"
+    },
+    "papermill": {
+     "duration": 1.306224,
+     "end_time": "2024-06-11T15:57:28.949867",
+     "exception": false,
+     "start_time": "2024-06-11T15:57:27.643643",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Warning message in train.default(x, y, weights = w, ...):\n",
+      "“You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.”\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "0"
+      ],
+      "text/latex": [
+       "0"
+      ],
+      "text/markdown": [
+       "0"
+      ],
+      "text/plain": [
+       "[1] 0"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Warning message in train.default(x, y, weights = w, ...):\n",
+      "“You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.”\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "0"
+      ],
+      "text/latex": [
+       "0"
+      ],
+      "text/markdown": [
+       "0"
+      ],
+      "text/plain": [
+       "[1] 0"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Warning message in train.default(x, y, weights = w, ...):\n",
+      "“You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n",
+      "Warning message in predict.lm(object, newdata, se.fit, scale = 1, type = if (type == :\n",
+      "“prediction from a rank-deficient fit may be misleading”\n"
+     ]
+    },
+    {
+     "data": {
+      "text/html": [
+       "0"
+      ],
+      "text/latex": [
+       "0"
+      ],
+      "text/markdown": [
+       "0"
+      ],
+      "text/plain": [
+       "[1] 0"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Q8.Set the seed to 1. Train a logistic regression model with the caret glm method using age as the only predictor.\n",
+    "#What is the accuracy of your model (using age as the only predictor) on the test set ?\n",
+    "#Set the seed to 1. Train a logistic regression model with the caret glm method using four predictors: sex, class, fare, and age.\n",
+    "#What is the accuracy of your model (using these four predictors) on the test set?\n",
+    "#Set the seed to 1. Train a logistic regression model with the caret glm method using all predictors. Ignore warnings about rank-deficient fit.\n",
+    "#What is the accuracy of your model (using all predictors) on the test set ?\n",
+    "\n",
+    "\n",
+    "set.seed(1)\n",
+    "train_glm_age <- train(Survived ~ Age, method = \"glm\", data = train_set)\n",
+    "glm_preds_age <- predict(train_glm_age, test_set)\n",
+    "mean(glm_preds_age == test_set$Survived)\n",
+    "        \n",
+    "\n",
+    "train_glm <- train(Survived ~ Sex + Pclass + Fare + Age, method = \"glm\", data = train_set)\n",
+    "glm_preds <- predict(train_glm, test_set)\n",
+    "mean(glm_preds == test_set$Survived)\n",
+    "\n",
+    "train_glm_all <- train(Survived ~ ., method = \"glm\", data = train_set)\n",
+    "glm_all_preds <- predict(train_glm_all, test_set)\n",
+    "mean(glm_all_preds == test_set$Survived)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4f11583f",
+   "metadata": {
+    "papermill": {
+     "duration": 0.011458,
+     "end_time": "2024-06-11T15:57:28.973111",
+     "exception": false,
+     "start_time": "2024-06-11T15:57:28.961653",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
@@ -1093,14 +1389,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 7.958603,
-   "end_time": "2024-06-11T15:46:28.661190",
+   "duration": 10.277838,
+   "end_time": "2024-06-11T15:57:29.106870",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-11T15:46:20.702587",
+   "start_time": "2024-06-11T15:57:18.829032",
    "version": "2.5.0"
   }
  },
